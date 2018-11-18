@@ -1,0 +1,14 @@
+[23-Sep-2018 16:50:42 UTC] PHP Fatal error:  Class 'App\Link' not found in /home/ekcqvzgr/magdown/app/Http/Controllers/HomeController.php on line 117
+[15-Nov-2018 05:14:50 UTC] PHP Fatal error:  Cannot redeclare class Composer\Autoload\ClassLoader in /home/ekcqvzgr/magdown/vendor/composer/ClassLoader.php on line 43
+[15-Nov-2018 05:14:50 UTC] PHP Fatal error:  Cannot redeclare class Composer\Autoload\ClassLoader in /home/ekcqvzgr/magdown/vendor/composer/ClassLoader.php on line 43
+[15-Nov-2018 05:14:50 UTC] PHP Fatal error:  Cannot redeclare class Composer\Autoload\ClassLoader in /home/ekcqvzgr/magdown/vendor/composer/ClassLoader.php on line 43
+[15-Nov-2018 05:14:51 UTC] PHP Fatal error:  Cannot redeclare class Composer\Autoload\ClassLoader in /home/ekcqvzgr/magdown/vendor/composer/ClassLoader.php on line 43
+[15-Nov-2018 05:14:51 UTC] PHP Fatal error:  Cannot redeclare class Composer\Autoload\ClassLoader in /home/ekcqvzgr/magdown/vendor/composer/ClassLoader.php on line 43
+[15-Nov-2018 05:14:51 UTC] PHP Fatal error:  Cannot redeclare class Composer\Autoload\ClassLoader in /home/ekcqvzgr/magdown/vendor/composer/ClassLoader.php on line 43
+[15-Nov-2018 05:14:52 UTC] PHP Fatal error:  Cannot redeclare class Composer\Autoload\ClassLoader in /home/ekcqvzgr/magdown/vendor/composer/ClassLoader.php on line 43
+[15-Nov-2018 05:14:52 UTC] PHP Fatal error:  Cannot redeclare class Composer\Autoload\ClassLoader in /home/ekcqvzgr/magdown/vendor/composer/ClassLoader.php on line 43
+[15-Nov-2018 05:14:52 UTC] PHP Fatal error:  Cannot redeclare class Composer\Autoload\ClassLoader in /home/ekcqvzgr/magdown/vendor/composer/ClassLoader.php on line 43
+[15-Nov-2018 05:14:52 UTC] PHP Fatal error:  Cannot redeclare class Composer\Autoload\ClassLoader in /home/ekcqvzgr/magdown/vendor/composer/ClassLoader.php on line 43
+[15-Nov-2018 05:14:52 UTC] PHP Fatal error:  Cannot redeclare class Composer\Autoload\ClassLoader in /home/ekcqvzgr/magdown/vendor/composer/ClassLoader.php on line 43
+[15-Nov-2018 05:14:52 UTC] PHP Fatal error:  Cannot redeclare class Composer\Autoload\ClassLoader in /home/ekcqvzgr/magdown/vendor/composer/ClassLoader.php on line 43
+[15-Nov-2018 09:04:06 UTC] PHP Fatal error:  Cannot redeclare class Composer\Autoload\ClassLoader in /home/ekcqvzgr/magdown/vendor/composer/ClassLoader.php on line 43
