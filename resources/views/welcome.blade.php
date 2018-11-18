@@ -46,6 +46,9 @@
     @endif
     <div class="container">
         <div class="row">
+            <div id="bannerPlaceHolder" class="row" style="height: 60px; margin:10px;">
+                <!-- here you can place your banner -->
+            </div>
             <div class="col-xs-9">
                 @if(isset($search))
                     <div class="col-md-12">
